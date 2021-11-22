@@ -1,4 +1,6 @@
 import Nav from "../navigation/navbar";
+import axios from 'axios';
+import { useState, useEffect } from 'react';
 import "./page2.css"
 
 function Page2()
